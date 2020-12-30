@@ -13,7 +13,7 @@ $ npm run dev
 
 - `/apis/shopifyClient.ts`の`[Your Domain]`と`[Your Storefront Access Token]`を書き換えてください。
 
-## Develop
+## Build
 ```
 $ npm run build
 ```
